@@ -18,6 +18,13 @@ This directory contains the Google Colab notebooks and code implementations for 
 
 ---
 
+### 🔹 Machine Learning Lab Task 3
+* **Description:** Implementing and Analyzing Linear Regression Algorithm .
+* **Notebook Link:** [Machine_Learning_Lab_Task_03.ipynb](https://github.com/zihammahmud/Machine-Learning-Lab/blob/main/Lab%20Task/Machine%20Learning%20Lab%20Task%203.ipynb)
+ 
+
+---
+
 ##  Tools & Libraries
 * **Python**
 * **Google Colab**
